@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+streamlit
+joblib
+zxcvbnpython -m pip install -r requirements.txt
